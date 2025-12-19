@@ -2,6 +2,8 @@
 
 A Swift Package for cross-promoting your apps. Because your other apps deserve some love too.
 
+![TNCrossPromo in action](https://the-nerd.be/assets/images/tncrosspromo/tncrosspromo.jpg)
+
 ## What is this?
 
 You know that "You might also like" section in apps? The one that shows off the developer's other creations? This package lets you add exactly that to your app with minimal effort.
